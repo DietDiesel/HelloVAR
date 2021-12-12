@@ -1,4 +1,4 @@
-package io.krispr.controllers;
+package org.example.controllers;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
